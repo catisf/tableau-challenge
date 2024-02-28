@@ -8,7 +8,7 @@
 4. [Data source](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#4-data-source)
 
 ## 1. Overview
-The main aim of this assignment was to develop a tableau workbook containing individual visualisations, interactive dashboards and a story using publicly available data from CitiBike (see [Data Source](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#4-data-source). The workbook should contain one map with all stations and should be aimed at city officials, in order to inform them about temporal changes and current riding patterns. 
+The main aim of this assignment was to develop a tableau workbook containing individual visualisations, interactive dashboards and a story, using publicly available data from CitiBike (see [Data Source](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#4-data-source). The workbook should contain one map with all stations and should be aimed at city officials, in order to inform them about temporal changes and current riding patterns. 
 
 ## 2. Deployment
 The workbook is published on Tableau Public. You can view it [here](https://public.tableau.com/app/profile/catarina.ferreira2233/viz/Citi_Bike_17084488357830/Story2)
