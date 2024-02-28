@@ -27,6 +27,6 @@ This repository contains:
 - You can access the work book in a web browser [here](https://public.tableau.com/app/profile/catarina.ferreira2233/viz/Citi_Bike_17084488357830/Story2)
 - To use the same data, download the files specified on the Data Source section [below](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#5-data-source) and run the jupyter notebook to get the merged data. 
 
-## 4. Data source
+## 5. Data source
 - The data used is publicly available on Citi Bike: https://citibikenyc.com/system-data
 - The files used for these analyses pertain to January 2023 and January 2024
