@@ -1,17 +1,16 @@
 # tableau-challenge
 ### Challenge 18 of UoB Data Analytics bootcamp - Tableau
 
+<p align="center">
+  <img src = "https://github.com/catisf/tableau-challenge/blob/main/dashboard.png" height = "50%" width = "50%">
+</p>
+<h6 align="center">Fig. 1 - Map visualisation</h6>
+
 ## Content:
 1. [Overview](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#1-overview)
 2. [Deployment](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#2-deployment)
 3. [Repository](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#3-repository)
 4. [Data source](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#4-data-source)
-
-<p align="center">
-  <img src = "https://github.com/catisf/tableau-challenge/blob/main/dashboard.png" height = "75%" width = "75%">
-</p>
-<h6 align="center">Fig. 1 - Map visualisation</h6>
-
 
 ## 1. Overview
 The main aim of this assignment was to develop a tableau workbook containing individual visualisations, interactive dashboards and a story using publicly available data from CitiBike (see [Data Source](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#4-data-source). The workbook should contain one map with all stations and should be aimed at city officials, in order to inform them about temporal changes and current riding patterns. 
