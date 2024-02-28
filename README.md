@@ -1,11 +1,6 @@
 # tableau-challenge
 ### Challenge 18 of UoB Data Analytics bootcamp - Tableau
 
-<p align="center">
-  <img src = "https://github.com/catisf/tableau-challenge/blob/main/dashboard.png" height = "50%" width = "50%">
-</p>
-<h6 align="center">Fig. 1 - Map visualisation</h6>
-
 ## Content:
 1. [Overview](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#1-overview)
 2. [Deployment](https://github.com/catisf/tableau-challenge/tree/main?tab=readme-ov-file#2-deployment)
@@ -17,6 +12,11 @@ The main aim of this assignment was to develop a tableau workbook containing ind
 
 ## 2. Deployment
 The workbook is published on Tableau Public. You can view it [here](https://public.tableau.com/app/profile/catarina.ferreira2233/viz/Citi_Bike_17084488357830/Story2)
+
+<p align="center">
+  <img src = "https://github.com/catisf/tableau-challenge/blob/main/dashboard.png" height = "50%" width = "50%">
+</p>
+<h6 align="center">Fig. 1 - Map visualisation</h6>
 
 ## 3. Repository structure
 This repository contains:
